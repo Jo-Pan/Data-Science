@@ -12,3 +12,8 @@ Data analytics code in Python
 8. Time Series 
 9. Grid Search
 
+
+### TensorFlow
+### Reinforcement Learning
+1. MDP, MRP
+2. Policy iteration and Value iteration in simple gridworld
